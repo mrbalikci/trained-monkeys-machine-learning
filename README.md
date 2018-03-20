@@ -39,6 +39,6 @@ The number of years that a monkey has worked is a predictor for the number of ta
 
 ## conclusion
 
-MSE score would make more sense if the data is normalized 
+MSE, Mean Squared Error, score would make more sense if the data is normalized. MSE closed to '0' would be a good. 
 R-squared value is here less than 0.5 so the model is not that strong. 
 If the outliers were cleaned the prediction equation would make more sense.
