@@ -37,7 +37,7 @@ The number of years that a monkey has worked is a predictor for the number of ta
 * Sklearn
 * Matplotlib
 
-## Conclution
+## conclusion
 
 MSE score would make more sense if the data is normalized 
 R-squared value is here less than 0.5 so the model is not that strong. 
